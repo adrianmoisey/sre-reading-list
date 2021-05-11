@@ -32,7 +32,7 @@ Great book with stories of Staff level engineers, and details about technical le
 
 This is a great book about running Production Kubernetes environments. The book balances going broad and deep at the same time. 
 
-## implementing Service Level Objectives
+## Implementing Service Level Objectives
 
 [URL](https://www.alex-hidalgo.com/the-slo-book)
 
