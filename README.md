@@ -43,3 +43,9 @@ This book is a deep dive into SLOs. Very technical and very deep. If you want an
 [URL](https://itrevolution.com/book/accelerate/)
 
 A data-driven look at the software delivery pipeline, what drives it and what works well.
+
+## The DevOps Handbook
+
+[URL](https://itrevolution.com/the-devops-handbook/)
+
+Literally what it says on the tin, a handbook to DevOps.
