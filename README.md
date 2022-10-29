@@ -49,3 +49,9 @@ A data-driven look at the software delivery pipeline, what drives it and what wo
 [URL](https://itrevolution.com/the-devops-handbook/)
 
 Literally what it says on the tin, a handbook to DevOps.
+
+## Observability Engineering
+
+[URL](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
+
+Must have book about O11y
