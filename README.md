@@ -55,3 +55,12 @@ Literally what it says on the tin, a handbook to DevOps.
 [URL](https://info.honeycomb.io/observability-engineering-oreilly-book-2022)
 
 Must have book about O11y
+
+## The Staff Engineer's Path
+
+[URL](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+
+> This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You'll read about how to be a leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain.
+
+
+
