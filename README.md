@@ -62,5 +62,9 @@ Must have book about O11y
 
 > This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You'll read about how to be a leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain.
 
+## Istio in Action
 
+[URL](https://www.manning.com/books/istio-in-action)
+
+> Istio in Action teaches you how to implement an Istio-based service mesh that can handle complex routing scenarios, traffic encryption, authorization, and other common network-related tasks. 
 
